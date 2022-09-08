@@ -1,13 +1,16 @@
 # Surf Weather API
 
-Weather forecast for surf.
+## Weather forecast for surf
 
-** Dependencies **
+### Dependencies
 
-- module-alias
+* module-alias
 
-** Dev Dependencies **
+### Dev Dependencies
 
-- @types/module-alias
-- @types/node
-- typescript
+* @types/module-alias
+* @types/node
+* @typescript-eslint/eslint-plugin
+* @typescript-eslint/parser
+* eslint
+* typescript
