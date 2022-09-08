@@ -1,0 +1,27 @@
+{
+  "name": "weather-surf",
+  "version": "1.0.0",
+  "description": "weather surf api",
+  "main": "server.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "npm run build && node dist/src/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "api",
+    "typescript",
+    "nodejs"
+  ],
+  "author": "Marcio Anthony",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/module-alias": "^2.0.1",
+    "@types/node": "^18.7.15",
+    "typescript": "^4.8.2"
+  },
+  "dependencies": {
+    "module-alias": "^2.2.2",
+    "npm": "^8.19.1"
+  }
+}
