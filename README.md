@@ -5,12 +5,14 @@
 ### Dependencies
 
 * @overnightjs/core
+* axios
 * body-parser
 * express
 * module-alias
 
 ### Dev Dependencies
 
+* @types/axios
 * @types/express
 * @types/jest
 * @types/module-alias
