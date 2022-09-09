@@ -20,6 +20,7 @@
 * @typescript-eslint/parser
 * eslint
 * jest
+* prettier
 * supertest
 * ts-jest
 * ts-node-dev
