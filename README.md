@@ -4,10 +4,14 @@
 
 ### Dependencies
 
+* @overnightjs/core
+* body-parser
+* express
 * module-alias
 
 ### Dev Dependencies
 
+* @types/express
 * @types/jest
 * @types/module-alias
 * @types/node
