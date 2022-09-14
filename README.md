@@ -7,12 +7,15 @@
 * @overnightjs/core
 * axios
 * body-parser
+* config
 * express
 * module-alias
+* mongoose
 
 ### Dev Dependencies
 
 * @types/axios
+* @types/config
 * @types/express
 * @types/jest
 * @types/module-alias
