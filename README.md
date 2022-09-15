@@ -19,12 +19,15 @@
 * @types/express
 * @types/jest
 * @types/module-alias
+* @types/mongoose
+* @types/nock
 * @types/node
 * @types/supertest
 * @typescript-eslint/eslint-plugin
 * @typescript-eslint/parser
 * eslint
 * jest
+* nock
 * prettier
 * supertest
 * ts-jest
