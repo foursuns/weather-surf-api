@@ -16,6 +16,7 @@ docker run -p 27017:27017 -d mongo
 * bcrypt
 * config
 * express
+* jsonwebtoken
 * module-alias
 * mongoose
 
@@ -26,6 +27,7 @@ docker run -p 27017:27017 -d mongo
 * @types/config
 * @types/express
 * @types/jest
+* @types/jsonwebtoken
 * @types/module-alias
 * @types/nock
 * @types/node
