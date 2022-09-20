@@ -19,6 +19,7 @@ docker run -p 27017:27017 -d mongo
 * jsonwebtoken
 * module-alias
 * mongoose
+* pino
 
 ### Dev Dependencies
 
@@ -32,11 +33,13 @@ docker run -p 27017:27017 -d mongo
 * @types/nock
 * @types/node
 * @types/supertest
+* @types/pino
 * @typescript-eslint/eslint-plugin
 * @typescript-eslint/parser
 * eslint
 * jest
 * nock
+* pino-pretty
 * prettier
 * supertest
 * ts-jest
