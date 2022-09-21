@@ -15,7 +15,10 @@ docker run -p 27017:27017 -d mongo
 * body-parser
 * bcrypt
 * config
+* cors
 * express
+* express-pino-logger
+* http-status-codes
 * jsonwebtoken
 * module-alias
 * mongoose
@@ -26,7 +29,10 @@ docker run -p 27017:27017 -d mongo
 * @types/axios
 * @types/bcrypt
 * @types/config
+* @types/cors
 * @types/express
+* @types/express-pino-logger
+* @types/http-status-codes
 * @types/jest
 * @types/jsonwebtoken
 * @types/module-alias
