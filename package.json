@@ -12,7 +12,7 @@
     "style:check": "prettier --check ./src/**/*.ts ./test/**/*.ts",
     "style:fix": "prettier --write ./src/**/*.ts ./test/**/*.ts",
     "test": "npm run test:unit && npm run test:functional",
-    "test:functional": "jest --projects ./test --forceExit --runInBand",
+    "test:functional": "jest --projects ./test --runInBand",
     "test:unit": "jest"
   },
   "keywords": [
