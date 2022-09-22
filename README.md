@@ -20,6 +20,7 @@ docker run -p 27017:27017 -d mongo
 * express-pino-logger
 * http-status-codes
 * jsonwebtoken
+* lodash
 * module-alias
 * mongoose
 * pino
@@ -35,6 +36,7 @@ docker run -p 27017:27017 -d mongo
 * @types/http-status-codes
 * @types/jest
 * @types/jsonwebtoken
+* @types/lodash
 * @types/module-alias
 * @types/nock
 * @types/node
